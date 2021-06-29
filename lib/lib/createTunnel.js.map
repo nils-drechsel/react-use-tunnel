@@ -1,0 +1,1 @@
+{"version":3,"file":"createTunnel.js","sourceRoot":"","sources":["../../src/lib/createTunnel.ts"],"names":[],"mappings":";;;AAAA,iCAA+C;AAExC,MAAM,YAAY,GAAG,CAAQ,OAAe,EAAkB,EAAE;IACnE,IAAI,OAAO;QAAE,OAAO,qBAAa,CAAQ,OAAO,CAAC,CAAC;;QAC7C,OAAO,qBAAa,CAAQ,IAAwB,CAAC,CAAC;AAC/D,CAAC,CAAC;AAHW,QAAA,YAAY,gBAGvB"}
